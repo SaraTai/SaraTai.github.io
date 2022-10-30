@@ -3,11 +3,10 @@ title: ExampleSite
 paginate: 5
 theme: "PaperMod"
 
-[module]
-
-  [[module.imports]]
-    path = github.com/adityatelange/hugo-PaperMod
-    disable = false
+module:
+  module.imports:
+    path: github.com/adityatelange/hugo-PaperMod
+    disable: false
 
 enableRobotsTXT: true
 buildDrafts: false
