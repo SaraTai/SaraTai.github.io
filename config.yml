@@ -1,7 +1,7 @@
 baseURL: https://SaraTai.github.io
 title: ExampleSite
 paginate: 5
-theme: "PaperMod"
+theme: PaperMod
 
 module:
   module.imports:
