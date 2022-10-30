@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://SaraTai.github.io/sitemap.xml
