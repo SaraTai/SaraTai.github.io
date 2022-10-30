@@ -6,7 +6,7 @@ theme: "PaperMod"
 [module]
 
   [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
+    path = github.com/adityatelange/hugo-PaperMod
     disable = false
 
 enableRobotsTXT: true
