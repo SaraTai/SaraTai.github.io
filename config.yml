@@ -1,5 +1,5 @@
 baseURL: https://SaraTai.github.io
-title: ExampleSite
+title: Sara's Blog
 paginate: 5
 theme: PaperMod
 
@@ -19,11 +19,13 @@ minify:
   disableXML: true
   minifyOutput: true
 
+enableemoji: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: Sara's Blog
+  description: "Notes for Patents and Daily Life"
+  keywords: [Blog, Patents, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -58,8 +60,9 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: <p><span class="emojify">:chicken:</span></p>
+      # /apple-touch-icon.png
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
