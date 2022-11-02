@@ -84,8 +84,8 @@ params:
     Content: "patent notes, lyric-translation, and personal diary"
 
   socialIcons:
-    - name: email
-      url: "mailto:hereissaratai@gmail.com"
+    #- name: email
+    #  url: "mailto:hereissaratai@gmail.com"
     - name: rss
       url: "https://saratai.github.io/index.xml"
     - name: github
