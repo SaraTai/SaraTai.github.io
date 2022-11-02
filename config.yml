@@ -59,9 +59,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: <p><span class="emojify">:chicken:</span></p>
-      # /apple-touch-icon.png
+    text: "\U00002302 Home"
+      # icon: \apple-touch-icon.png
     # iconHeight: 35
 
   # profile-mode
@@ -82,15 +81,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: "patent notes, lyric-translation, and personal diary"
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: email
+      url: "mailto:hereissaratai@gmail.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/SaraTai"
 
   analytics:
     google:
