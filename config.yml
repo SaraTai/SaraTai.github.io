@@ -80,12 +80,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi there \U0001F44B Welcome to Sara's Blog!"
     Content: "patent notes, lyric-translation, and personal diary"
 
   socialIcons:
     - name: email
-      url: "mailto:hereissaratai@gmail.com"
+      url: "mailto://hereissaratai@gmail.com"
+    - name: rss
+      url: "https://saratai.github.io/index.xml"
     - name: github
       url: "https://github.com/SaraTai"
 
@@ -123,14 +125,14 @@ menu:
       name: categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    #- identifier: tags
+    #  name: tags
+    #  url: /tags/
+    #  weight: 20
+    #- identifier: example
+    #  name: example.org
+    #  url: https://example.org
+    #  weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -141,3 +143,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
