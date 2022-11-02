@@ -59,7 +59,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "\U00002302 Home"
+    text: "\U0001F992 Sara's Blog"
       # icon: \apple-touch-icon.png
     # iconHeight: 35
 
@@ -80,12 +80,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B Welcome to Sara's Blog!"
+    Title: "Hi there \U0001F44B"
     Content: "patent notes, lyric-translation, and personal diary"
 
   socialIcons:
     - name: email
-      url: "mailto://hereissaratai@gmail.com"
+      url: "mailto:hereissaratai@gmail.com"
     - name: rss
       url: "https://saratai.github.io/index.xml"
     - name: github
@@ -125,6 +125,14 @@ menu:
       name: categories
       url: /categories/
       weight: 10
+    - identifier: archives
+      name: archieves
+      url: /archives
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search
+      weight: 1
     #- identifier: tags
     #  name: tags
     #  url: /tags/
