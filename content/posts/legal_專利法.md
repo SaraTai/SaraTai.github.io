@@ -9,7 +9,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "使用markdown方便檢索法條"
+description: "使用markdown方便檢索法條，加上逐條釋義中的【摘要註解】"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true

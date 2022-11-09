@@ -157,9 +157,3 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
-
-markup:
-  tableOfContents:
-    endLevel: 4
-    ordered: false
-    startLevel: 2
