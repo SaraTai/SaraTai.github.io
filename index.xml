@@ -8,18 +8,16 @@
       <url>https://SaraTai.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://SaraTai.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Oct 2022 01:59:22 +0800</lastBuildDate><atom:link href="https://SaraTai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://SaraTai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>My First Post</title>
+      <title>My First post</title>
       <link>https://SaraTai.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 16 Oct 2022 01:59:22 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://SaraTai.github.io/posts/my-first-post/</guid>
-      <description>[ToC]
-1st a b c 2nd p peanuts Hi please work!!! </description>
+      <description>Desc Text.</description>
     </item>
-    
     
     
   </channel>
