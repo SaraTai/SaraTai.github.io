@@ -9,7 +9,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "使用markdown方便檢索法條"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -66,7 +66,7 @@ editPost:
 前條雇用人與受雇人間所訂契約，使受雇人不得享受其發明、新型或設計之權益者，無效。
 #### 第 10 條
 雇用人或受雇人對第七條及第八條所定權利之歸屬有爭執而達成協議者，得附具證明文件，向專利專責機關申請變更權利人名義。專利專責機關認有必要時，得通知當事人附具依其他法令取得之調解、仲裁或判決文件。
-### 第 11 條
+#### 第 11 條
 申請人申請專利及辦理有關專利事項，得委任代理人辦理之。
 在中華民國境內，無住所或營業所者，申請專利及辦理專利有關事項，應委任代理人辦理之。
 代理人，除法令另有規定外，以專利師為限。
