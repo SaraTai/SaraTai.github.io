@@ -1,12 +1,12 @@
 ---
-title: "【專利師考試】專業英文單字筆記"
+title: "【專利師考試】專利行政與救濟法規筆記"
 date: 2022-11-9T01:59:22+08:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["exam"]
 showToc: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: false
 comments: true
 description: "跟大家分享107-109年專業英文考古單字按申請順序整理的筆記"
