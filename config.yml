@@ -157,5 +157,7 @@ outputs:
         - RSS
         - JSON # is necessary
 
-
-disqusShortname: https-saratai-github-io
+disqus: 
+    enable: true
+    shortname: https-saratai-github-io
+    count: true
