@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://SaraTai.github.io/posts/notes_%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87/</loc>
+  </url><url>
     <loc>https://SaraTai.github.io/archives/</loc>
   </url><url>
     <loc>https://SaraTai.github.io/categories/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/tags/exam/</loc>
   </url><url>
     <loc>https://SaraTai.github.io/tags/legal-markdown/</loc>
   </url><url>
