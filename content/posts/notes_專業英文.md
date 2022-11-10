@@ -1,5 +1,5 @@
 ---
-title: "【筆記】專業英文單字筆記"
+title: "【專利師考試】專業英文單字筆記"
 date: 2022-11-9T01:59:22+08:00
 # weight: 1
 # aliases: ["/first"]
@@ -84,7 +84,7 @@ If the invention is disclosed in the prior art, an invention is __not new__, tha
 
 - patentee 專利權人
 
-- **sub-**licensing 再授權
+- **sub\-**licensing 再授權
 
 - **right be conferred on** a patentee  
 賦予權利、授予權利
@@ -94,8 +94,10 @@ If the invention is disclosed in the prior art, an invention is __not new__, tha
 - barred from 阻卻  
 The patent holder is barred from enforcing the patent rights. 
 
-- An exclusive licensee of a patent has the right to grant sub-licensee to a third party to exploit the licensed patent __unless otherwise agreed by the parties__.   
+- An exclusive licensee of a patent has the right to grant sub-licensee to a third party to exploit the licensed patent **unless otherwise agreed by the parties**.   
 除契約另有約定外
+
+---
 
 - extinguished 消滅
 
@@ -104,12 +106,14 @@ The patent holder is barred from enforcing the patent rights.
 - abandoned 拋棄
 
 - **nullity** 無效  
-(Paris Article 4 bis and Article 4 ter)
+(Paris Convention Article 4 bis and Article 4 ter)
 
 - **forfeiture** 消滅  
-(Paris Article 4 bis and Article 4 ter)
+(Paris Convention Article 4 bis and Article 4 ter)
 
 - **revoked** 撤銷
+
+---
 
 - **compulsory license** 強制授權
 
@@ -143,8 +147,8 @@ __審理__專利侵權__民事訴訟__
     - prosecution history estoppel
     - dedication to the public rule  
     = the disclosure to the public rule  
-    = 揭露奉獻原則
-    = issue preclusion
+    = 揭露奉獻原則  
+    = issue preclusion  
     = 爭點排除效
 
 - **plantiff** 原告
