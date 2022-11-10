@@ -9,7 +9,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "修正日期： 民國 111 年 10 月 20 日\n加上項次\n"
+description: "修正日期： 民國 111 年 10 月 20 日\n\n待加上項次"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -28,10 +28,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "hhttps://github.com/SaraTai/SaraTai.github.io"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 ## 第 一 章 總則
 #### 第 1 條
