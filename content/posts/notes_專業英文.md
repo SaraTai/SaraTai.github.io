@@ -8,7 +8,7 @@ showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "跟大家分享107-109年專業英文考古單字按申請順序整理的筆記"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
