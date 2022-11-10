@@ -32,18 +32,32 @@ cover:
 - **heirs** 繼承人  
 passed away without heirs
 
-- the right to apply for a patent 專利申請權
-    - assignable 可讓與
+- the right to apply for a patent 專利申請權  
+    - assignable 可讓與 
     - inheritable 可繼承
     - **pledge** 質權
 
-- **mutual agreement** 契約約定
+- **mutual agreement** 契約約定  
 
-- **vest** sth. in sb. 權利歸屬
+- **vest** sth. in sb. 權利歸屬  
 without any mutual agreement, such rights will not be vested in the fund provider
 
-- **domicile** 住居所
+- **domicile** 住居所  
 domicile or business establishment
 
 - **reciprocal country** 互惠國
+
+- **successor** 繼承人
+
+- **locus standi** 陳述權  
+(申請權) the successor shall have locus standi against any third party
+
+- clear, **sufficient** disclosed and practical  
+明確且充分揭露而可據以實現
+
+- fully **record** the invention  
+充分記載發明
+
+- without **undue** experimentation  
+無須過度實驗
 
