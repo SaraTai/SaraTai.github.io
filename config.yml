@@ -13,6 +13,11 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+disqus: 
+    enable: true
+    shortname: https-saratai-github-io
+    count: true
+
 googleAnalytics: UA-123-45
 
 minify:
@@ -156,8 +161,3 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
-
-disqus: 
-    enable: true
-    shortname: https-saratai-github-io
-    count: true
