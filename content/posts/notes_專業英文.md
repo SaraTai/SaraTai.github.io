@@ -161,3 +161,5 @@ The plantiff posts a bond to cover the defendant's damage.
 - **laches** 懈怠、遲延
 - material **prejudice** 重大損失  
 Laches may be a defense to patent infringement when an accused infringer proves that a patentee unreasonably and inexcusably delayed filing an infringment suit to the material prejudice of the accused infringer. 
+
+{{ partial "disqus.html" . }}
