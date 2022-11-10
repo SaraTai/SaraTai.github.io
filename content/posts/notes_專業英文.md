@@ -133,7 +133,7 @@ The provisions set forth in the proceeding three paragraphs shall apply mutatis 
 - **bring** an infringing **suit** 提起侵權之訴
 
 - **trial** of **civil litigations** over patent infringement  
-__審理__專利侵權__民事訴訟__
+__審理__ 專利侵權 __民事訴訟__
 
 - claim construction is undertaken **construed**  
 解釋專利範圍
@@ -163,3 +163,4 @@ The plantiff posts a bond to cover the defendant's damage.
 Laches may be a defense to patent infringement when an accused infringer proves that a patentee unreasonably and inexcusably delayed filing an infringment suit to the material prejudice of the accused infringer. 
 
 
+{{ template "_internal/disqus.html" . }}

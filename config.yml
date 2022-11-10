@@ -156,3 +156,6 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+
+disqusShortname: https-saratai-github-io
