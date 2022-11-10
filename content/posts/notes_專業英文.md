@@ -84,7 +84,7 @@ If the invention is disclosed in the prior art, an invention is __not new__, tha
 
 - patentee 專利權人
 
-- **sub\-**licensing 再授權
+- **sub\-** licensing 再授權
 
 - **right be conferred on** a patentee  
 賦予權利、授予權利
