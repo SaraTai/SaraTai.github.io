@@ -2,17 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SaraTai.github.io/posts/notes_%E8%A1%8C%E6%94%BF%E6%95%91%E6%BF%9F/</loc>
-  </url><url>
-    <loc>https://SaraTai.github.io/posts/notes_%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87/</loc>
-  </url><url>
     <loc>https://SaraTai.github.io/archives/</loc>
   </url><url>
     <loc>https://SaraTai.github.io/categories/</loc>
   </url><url>
-    <loc>https://SaraTai.github.io/tags/exam/</loc>
+    <loc>https://SaraTai.github.io/categories/lawsregulations/</loc>
   </url><url>
-    <loc>https://SaraTai.github.io/tags/legal-markdown/</loc>
+    <loc>https://SaraTai.github.io/categories/notes-for-exam/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/tags/patent/</loc>
   </url><url>
     <loc>https://SaraTai.github.io/posts/</loc>
   </url><url>
@@ -22,8 +20,20 @@
   </url><url>
     <loc>https://SaraTai.github.io/tags/</loc>
   </url><url>
+    <loc>https://SaraTai.github.io/tags/taiwan/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/tags/tipo/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/tags/%E5%B0%88%E5%88%A9%E5%B8%AB%E8%80%83%E8%A9%A6/</loc>
+  </url><url>
     <loc>https://SaraTai.github.io/posts/legal_%E5%B0%88%E5%88%A9%E6%B3%95/</loc>
   </url><url>
     <loc>https://SaraTai.github.io/posts/legal_%E5%B0%88%E5%88%A9%E6%B3%95%E6%96%BD%E8%A1%8C%E7%B4%B0%E5%89%87/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/posts/notes_%E8%A1%8C%E6%94%BF%E6%95%91%E6%BF%9F/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/posts/notes_%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87/</loc>
+  </url><url>
+    <loc>https://SaraTai.github.io/posts/notes_%E8%A1%8C%E6%94%BF%E7%A8%8B%E5%BA%8F%E6%B3%95/</loc>
   </url>
 </urlset>
