@@ -3,7 +3,8 @@ title: "專利法施行細則"
 date: 2022-11-9T01:59:22+08:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["legal-markdown"]
+tags: ["patent", "TIPO", "Taiwan"]
+categories: ["Laws&Regulations"]
 showToc: true
 TocOpen: true
 draft: false

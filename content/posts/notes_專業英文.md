@@ -1,9 +1,10 @@
 ---
-title: "【專利師考試】專業英文單字筆記"
+title: "專業英文單字筆記"
 date: 2022-11-9T01:59:22+08:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["exam"]
+tags: ["專利師考試", "patent"]
+categories: ["Notes for exam"]
 showToc: true
 TocOpen: true
 draft: false
