@@ -9,7 +9,7 @@ module:
     disable: false
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 

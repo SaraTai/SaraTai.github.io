@@ -7,7 +7,7 @@ tags: ["專利師考試", "patent"]
 categories: ["Notes for exam"]
 showToc: true
 TocOpen: true
-draft: false
+draft: true
 hidemeta: false
 comments: true
 description: "專利行政與救濟法規筆記目錄"
