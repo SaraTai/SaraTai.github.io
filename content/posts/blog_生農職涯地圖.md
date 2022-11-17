@@ -30,6 +30,12 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
+{{ if .Page.Store.Get "hasMermaid" }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+{{ end }}
 ---
 {{< mermaid >}}
 sequenceDiagram
@@ -50,4 +56,10 @@ sequenceDiagram
 {{ if (.Params.mermaid) }}
 <!-- MermaidJS support -->
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+{{ end }}
+{{ if .Page.Store.Get "hasMermaid" }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true });
+  </script>
 {{ end }}
