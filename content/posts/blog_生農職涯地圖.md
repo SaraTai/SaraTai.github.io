@@ -23,6 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+mermaid: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -45,3 +46,8 @@ sequenceDiagram
     生產->>銷售: How about you?
     銷售-->>生產: Jolly good!
 {{< /mermaid >}}
+
+{{ if (.Params.mermaid) }}
+<!-- MermaidJS support -->
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+{{ end }}
