@@ -30,7 +30,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-```mermaid
+{{< mermaid >}}
 sequenceDiagram
     participant 育種
     participant 生產
@@ -44,4 +44,4 @@ sequenceDiagram
     生產-->>育種: Great!
     生產->>銷售: How about you?
     銷售-->>生產: Jolly good!
-```
+{{< /mermaid >}}
