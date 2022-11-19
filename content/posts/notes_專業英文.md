@@ -161,4 +161,42 @@ The plantiff posts a bond to cover the defendant's damage.
 
 - **laches** 懈怠、遲延
 - material **prejudice** 重大損失  
-Laches may be a defense to patent infringement when an accused infringer proves that a patentee unreasonably and inexcusably delayed filing an infringment suit to the material prejudice of the accused infringer. 
+Laches may be a defense to patent infringement when an accused infringer proves that a patentee unreasonably and inexcusably delayed filing an infringment suit to the material prejudice of the accused infringer.  
+
+- **irreparable** harm 無法彌補之傷害
+
+- Once a utility model patent is revoked, the patentee shall **be liable for the damage** suffered by another person due to the patentee's excercise of utility model patent right prior to its revocation.  
+
+- **adduction** to proof 提出證據
+
+- **legitimate** interests 正當利益  
+In the adduction to proog to the contrary, the legitimate interests of defendants in protecting their manufacturing and business secrets shall be considered. 
+
+- Intellectual Property Case **Adjudication** Rules 審理細則
+
+- grant a **preliminary injunction**  非定暫時狀態(審理細則§37)
+
+- **remuneration** 補償金
+
+- reasonable **royalties** 合理授權金
+
+- hypothetical negotiation 假設性協議  
+Reasonable royalties is often said to be constructed on the basis of a hypothetical negotiation. 
+
+- permanent **injunction** 永久禁製
+
+- temporary **restraining** order  
+暫時**限制適用(銷售)**令
+
+- **customs** 海關
+
+- repeal the **detention** 廢止**查扣**
+
+- the doctoring of exhaustion  
+= 專利權耗盡  
+= the first sale doctoring  
+= 第一次銷售理論
+
+- expulsion 開除
+
+- reprimand 懲戒
