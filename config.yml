@@ -9,7 +9,7 @@ module:
     disable: false
 
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 
@@ -85,7 +85,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "patent notes, lyric-translation, and personal diary"
+    Content: "notes and diaries"
 
   socialIcons:
     #- name: email

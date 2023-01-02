@@ -1,5 +1,5 @@
 ---
-title: "maimai相關專利"
+title: "maimai相關專利[draft]"
 date: 2022-11-9T01:59:22+08:00
 # weight: 1
 # aliases: ["/first"]
@@ -7,7 +7,7 @@ tags: ["patent"]
 categories: ["Blog"]
 showToc: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: false
 comments: true
 description: ""
@@ -30,5 +30,5 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-- JP5245132B2
-- JP6115746B2 
+- [JP5245132B2](https://patents.google.com/patent/JP5245132B2/en?oq=JP5245132B2)
+- [JP6115746B2](https://patents.google.com/patent/JP6115746B2/en?oq=JP6115746B2) 
