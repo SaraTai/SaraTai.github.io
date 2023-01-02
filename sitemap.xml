@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SaraTai.github.io/posts/blog_%E6%A4%8D%E7%89%A9%E9%86%AB%E5%B8%AB%E6%B3%95/</loc>
+    <loc>https://SaraTai.github.io/posts/blog_%E6%A4%8D%E7%89%A9%E9%86%AB%E5%B8%AB%E6%B3%95%E8%A6%81%E9%BB%9E/</loc>
     <lastmod>2023-01-01T23:18:22+08:00</lastmod>
   </url><url>
     <loc>https://SaraTai.github.io/categories/blog/</loc>
@@ -15,6 +15,9 @@
     <lastmod>2023-01-01T23:18:22+08:00</lastmod>
   </url><url>
     <loc>https://SaraTai.github.io/</loc>
+    <lastmod>2023-01-01T23:18:22+08:00</lastmod>
+  </url><url>
+    <loc>https://SaraTai.github.io/posts/blog_%E6%A4%8D%E7%89%A9%E9%86%AB%E5%B8%AB%E6%B3%95/</loc>
     <lastmod>2023-01-01T23:18:22+08:00</lastmod>
   </url><url>
     <loc>https://SaraTai.github.io/archives/</loc>
